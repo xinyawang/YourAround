@@ -106,5 +106,5 @@ click [demo link](https://youraround-cmu.appspot.com) to visit
 NAN
 
 ## Notes
-If you have any questions, feel free to contact me at weijian1@andrew.cmu.edu
+If you have any questions, feel free to contact me at wangxinya5@gmail.com
 
